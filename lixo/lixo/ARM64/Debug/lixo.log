@@ -1,0 +1,4 @@
+﻿  lixo.cpp
+C:\Users\admin\source\repos\lixo\lixo\lixo.cpp(32,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\lixo\lixo\lixo.cpp(45,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lixo.vcxproj -> C:\Users\admin\source\repos\lixo\ARM64\Debug\lixo.exe

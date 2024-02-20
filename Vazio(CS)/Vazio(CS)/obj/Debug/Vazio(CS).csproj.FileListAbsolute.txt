@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Vazio(CS)\Vazio(CS)\bin\Debug\Vazio(CS).exe.config
+C:\Users\admin\source\repos\Vazio(CS)\Vazio(CS)\bin\Debug\Vazio(CS).exe
+C:\Users\admin\source\repos\Vazio(CS)\Vazio(CS)\bin\Debug\Vazio(CS).pdb
+C:\Users\admin\source\repos\Vazio(CS)\Vazio(CS)\obj\Debug\Vazio(CS).csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Vazio(CS)\Vazio(CS)\obj\Debug\Vazio(CS).csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Vazio(CS)\Vazio(CS)\obj\Debug\Vazio_CS_.Properties.Resources.resources
+C:\Users\admin\source\repos\Vazio(CS)\Vazio(CS)\obj\Debug\Vazio(CS).csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Vazio(CS)\Vazio(CS)\obj\Debug\Vazio(CS).csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Vazio(CS)\Vazio(CS)\obj\Debug\Vazio(CS).exe
+C:\Users\admin\source\repos\Vazio(CS)\Vazio(CS)\obj\Debug\Vazio(CS).pdb

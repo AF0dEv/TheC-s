@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G8Ro01xuBvgEjwHAB9UOgcyTvTzAMEnf5s7mOLUNRE78I5ETvydnufyUXGav7zkHGa0I2tLDuaueJdvYcCZa4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\GetInfoHardware\\GetInfoHardware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

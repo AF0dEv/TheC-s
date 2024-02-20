@@ -1,0 +1,3 @@
+﻿  ArrayComoArgumento.cpp
+C:\Users\admin\source\repos\ArrayComoArgumento\ArrayComoArgumento\ArrayComoArgumento.cpp(52,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ArrayComoArgumento.vcxproj -> C:\Users\admin\source\repos\ArrayComoArgumento\ARM64\Debug\ArrayComoArgumento.exe

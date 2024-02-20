@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "malloc", "malloc.vcxproj", "{E70CCABB-6D04-45EF-A538-9A6E37BEAB11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E70CCABB-6D04-45EF-A538-9A6E37BEAB11}.Debug|x64.ActiveCfg = Debug|x64
+		{E70CCABB-6D04-45EF-A538-9A6E37BEAB11}.Debug|x64.Build.0 = Debug|x64
+		{E70CCABB-6D04-45EF-A538-9A6E37BEAB11}.Debug|x86.ActiveCfg = Debug|Win32
+		{E70CCABB-6D04-45EF-A538-9A6E37BEAB11}.Debug|x86.Build.0 = Debug|Win32
+		{E70CCABB-6D04-45EF-A538-9A6E37BEAB11}.Release|x64.ActiveCfg = Release|x64
+		{E70CCABB-6D04-45EF-A538-9A6E37BEAB11}.Release|x64.Build.0 = Release|x64
+		{E70CCABB-6D04-45EF-A538-9A6E37BEAB11}.Release|x86.ActiveCfg = Release|Win32
+		{E70CCABB-6D04-45EF-A538-9A6E37BEAB11}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2106106E-D309-4AAF-9226-BF0CA28F7794}
+	EndGlobalSection
+EndGlobal

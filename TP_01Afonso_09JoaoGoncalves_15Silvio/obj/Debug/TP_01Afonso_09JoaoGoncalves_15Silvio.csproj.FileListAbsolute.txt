@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\TP_01Afonso_09JoaoGoncalves_15Silvio\bin\Debug\TP_01Afonso_09JoaoGoncalves_15Silvio.exe.config
+C:\Users\admin\source\repos\TP_01Afonso_09JoaoGoncalves_15Silvio\bin\Debug\TP_01Afonso_09JoaoGoncalves_15Silvio.exe
+C:\Users\admin\source\repos\TP_01Afonso_09JoaoGoncalves_15Silvio\bin\Debug\TP_01Afonso_09JoaoGoncalves_15Silvio.pdb
+C:\Users\admin\source\repos\TP_01Afonso_09JoaoGoncalves_15Silvio\obj\Debug\TP_01Afonso_09JoaoGoncalves_15Silvio.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\TP_01Afonso_09JoaoGoncalves_15Silvio\obj\Debug\TP_01Afonso_09JoaoGoncalves_15Silvio.Form1.resources
+C:\Users\admin\source\repos\TP_01Afonso_09JoaoGoncalves_15Silvio\obj\Debug\TP_01Afonso_09JoaoGoncalves_15Silvio.Form2.resources
+C:\Users\admin\source\repos\TP_01Afonso_09JoaoGoncalves_15Silvio\obj\Debug\TP_01Afonso_09JoaoGoncalves_15Silvio.Form3.resources
+C:\Users\admin\source\repos\TP_01Afonso_09JoaoGoncalves_15Silvio\obj\Debug\TP_01Afonso_09JoaoGoncalves_15Silvio.Form4.resources
+C:\Users\admin\source\repos\TP_01Afonso_09JoaoGoncalves_15Silvio\obj\Debug\TP_01Afonso_09JoaoGoncalves_15Silvio.Properties.Resources.resources
+C:\Users\admin\source\repos\TP_01Afonso_09JoaoGoncalves_15Silvio\obj\Debug\TP_01Afonso_09JoaoGoncalves_15Silvio.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\TP_01Afonso_09JoaoGoncalves_15Silvio\obj\Debug\TP_01Afonso_09JoaoGoncalves_15Silvio.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TP_01Afonso_09JoaoGoncalves_15Silvio\obj\Debug\TP_01Afonso_09JoaoGoncalves_15Silvio.exe
+C:\Users\admin\source\repos\TP_01Afonso_09JoaoGoncalves_15Silvio\obj\Debug\TP_01Afonso_09JoaoGoncalves_15Silvio.pdb

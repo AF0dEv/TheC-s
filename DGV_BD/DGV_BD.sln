@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DGV_BD", "DGV_BD.vbproj", "{FB46B083-BE8C-4F2B-90D3-8F7C471E1A3E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0253E796-CB7C-4D42-B174-F22037858800}"
+	ProjectSection(SolutionItems) = preProject
+		ADB.vb = ADB.vb
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB46B083-BE8C-4F2B-90D3-8F7C471E1A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB46B083-BE8C-4F2B-90D3-8F7C471E1A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB46B083-BE8C-4F2B-90D3-8F7C471E1A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB46B083-BE8C-4F2B-90D3-8F7C471E1A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02F2C6E0-3F6D-4A96-8628-0952F0C21878}
+	EndGlobalSection
+EndGlobal
